@@ -63,8 +63,10 @@ public class Animal {
     }
     
     public void die() {
-        this.isAlive = false;
-        this.animals_alive--;
+        if (isAlive) {
+         this.isAlive = false;
+        this.animals_alive--;  
+    } else {
+    System.out.println("That animal is already dead");
     }
-
 }
