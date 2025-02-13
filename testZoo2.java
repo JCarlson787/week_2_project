@@ -1,0 +1,149 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package WeekFiveLabAct;
+
+/**
+ *
+ * @author jesse
+ */
+public class testZoo2 {
+    public static void main(String[] args) {
+        Zoo zoo = new Zoo();
+        Animal fish = new Animal(7, "fish", 0);
+        Animal spider = new Animal(1, "spider", 8);
+        Animal zebra = new Animal(130, "zebra", 4);
+        Animal cat = new Animal(20000000, "cat", 4);
+        Animal headgehog = new Animal(2, "headgehog", 4);
+         zoo.addAnimal(fish);
+        zoo.addAnimal(spider);
+        zoo.addAnimal(zebra);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(cat);
+        zoo.addAnimal(headgehog);
+        zoo.print();
+       
+    }
+}
