@@ -150,7 +150,7 @@ public class TicTacToe {
             for (int j = 0; j < board.size; j++) {
                 board.grid[i][j] = ".";
             }
-            notFull = false;
+            notFull = true;
             win = false;
             switchPlayer();
             } else {
